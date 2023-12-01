@@ -19,7 +19,7 @@ Una vez que el espacio de trabajo ha sido creado, puede instalar Drupal desde un
 
 ```
 cd project
-./setup.sh
+
 ```
 
 ## Agradecimientos especiales
